@@ -139,10 +139,10 @@ local.properties
 .recommenders/
 .idea/
 app-2.11/
-app/
-build.sbt
-conf/
-project/
-src/
+#app/
+#build.sbt
+#conf/
+#project/
+#src/
 test-2.11/
-test/
+#test/
