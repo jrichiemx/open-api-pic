@@ -1,2 +1,4 @@
 
 GET   /hola        controllers.HolaController.sayHola
+
+GET     /swagger.json           controllers.ApiHelpController.getResources
